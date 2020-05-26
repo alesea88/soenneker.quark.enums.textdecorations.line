@@ -1,7 +1,6 @@
 # Личный проект «Седона»
-
 * Студент: [Olesea Leahu](https://up.htmlacademy.ru/htmlcss/28/user/1490461).
-* Наставник: [Оксана Сергеева](https://htmlacademy.ru/profile/oksana)
+* Наставник: [Оксана Сергеева](https://htmlacademy.ru/profile/oksana).
 
 ---
 
